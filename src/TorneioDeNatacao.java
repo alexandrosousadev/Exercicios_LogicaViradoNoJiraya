@@ -10,7 +10,6 @@
 public class TorneioDeNatacao {
 
     public static void main(String[] args) {
-        
         String nome= "joao" ;
         int idade = 10;
         
